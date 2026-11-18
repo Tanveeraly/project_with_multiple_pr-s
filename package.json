@@ -1,0 +1,11 @@
+{
+  "name": "project-with-multiple-prs",
+  "version": "1.0.0",
+  "description": "Small Node.js project to demonstrate working with multiple pull requests",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
